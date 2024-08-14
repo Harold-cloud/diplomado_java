@@ -25,12 +25,6 @@ public class operadores_logicos {
         boolean productoLogicoCortocircuito = (5 == 5) && (5 < 4); // AND ( && ) – si (a && b) [si es verdadero, ejecute, de lo contrario no lo haga]
         System.out.println(productoLogicoCortocircuito);
         
-        
-        
-        
-        
-    
-    
-    
+      
     }
 }
